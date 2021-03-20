@@ -1,0 +1,44 @@
+img {
+    height: 400px;
+    width: 600px;
+    border-radius: 50px;
+}
+
+html {
+
+    text-align: center;
+    background-color:cadetblue; 
+
+}
+
+body {
+    background: linear-gradient (#E1BEE7 0%, #90CAF9 100%);
+  background-repeat: repeat;
+    text-align:center;
+    font-family:cursive;
+    color: linear-gradient (#E1BEE7 0%, #90CAF9 100%);
+    
+}
+
+bio{
+    padding: 5px;
+    text-align: center;
+    font-size: 25px;
+    height: 400px;
+    width:auto;
+    font-style: oblique;
+    
+}
+
+h2{
+    text-decoration: underline;
+    font-size: 42px;
+    color:yellow; 
+}
+
+p{
+   color:yellow;     
+}
+
+
+
